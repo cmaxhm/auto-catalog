@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="857289c6-e86f-462a-83bb-97d47b097d38" name="Changes" comment="Hello world">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/auto-catalog-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/auto/auto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/auto/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/out/production/auto-catalog-backend/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H13tuDYPHj18FAGkhPjCEou5RD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/www/study/auto-catalog",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="857289c6-e86f-462a-83bb-97d47b097d38" name="Changes" comment="" />
+      <created>1667438999277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667438999277</updated>
+      <workItem from="1667439001065" duration="200000" />
+      <workItem from="1667439248616" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Monorepo structuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Monorepo structuration" />
+  </component>
+</project>

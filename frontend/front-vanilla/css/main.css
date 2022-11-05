@@ -1,0 +1,27 @@
+.bg{
+    background-image: url(../img/inicio-car.jpg);
+    background-position: center center;
+}
+body{
+    background: #ffe259;
+    background: linear-gradient(to right,#160a25,#7979e2);
+}
+.alerta-msg-red{
+    color: red;
+    margin-bottom: 10px;
+}
+ 
+.alerta-msg-green {
+   color:green;
+   margin-bottom: 10px;
+}
+
+#nombreUser, #sesion, #text-titulo-col{
+    color:white;
+
+}
+
+.productos {
+    max-width: 150px;
+    max-height: 150px;
+}

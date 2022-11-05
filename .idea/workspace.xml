@@ -2,29 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="857289c6-e86f-462a-83bb-97d47b097d38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/front-vanilla/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-vanilla/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/catalogo.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/catalogo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/car-128.png" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/car-128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/duster1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/duster1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/e-carscol.png" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/e-carscol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/escarabajo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/escarabajo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/facebook-48.png" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/facebook-48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/git-48.png" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/git-48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/inicio-car.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/inicio-car.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/mazda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/mazda.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/img/mazda2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/img/mazda2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/js/catalogo.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/js/catalogo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/js/ordenCompra.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/js/ordenCompra.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/js/productos.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/js/productos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/js/registroUsuario.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/js/registroUsuario.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/ordenDeCompra.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/ordenDeCompra.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/productos.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/productos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/recuperar.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/recuperar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/registro.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-vanilla/registro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.spec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +57,19 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/www/study/auto-catalog",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/www/study/auto-catalog&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\www\study\auto-catalog" />

@@ -1,0 +1,10 @@
+version: "4.12"
+
+services:
+  auto-catalog-frontend:
+    build:
+      context: .
+      dockerfile: ./frontend-vanilla/Dockerfile
+    restart: "always"
+    ports:
+      - "8080:80"

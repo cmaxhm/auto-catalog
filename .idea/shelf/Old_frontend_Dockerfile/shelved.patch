@@ -1,0 +1,19 @@
+Index: frontend/Dockerfile
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/frontend/Dockerfile b/frontend/Dockerfile
+new file mode 100644
+--- /dev/null	(date 1667684082107)
++++ b/frontend/Dockerfile	(date 1667684082107)
+@@ -0,0 +1,9 @@
++FROM httpd:2-alpine
++
++# Remove default files in server folder
++RUN rm -f /usr/local/apache2/htdocs/*
++
++# Copy project files to server folder
++COPY ./front-vanilla /usr/local/apache2/htdocs
++
++EXPOSE 80:80

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857289c6-e86f-462a-83bb-97d47b097d38" name="Changes" comment="Added .gitignore file">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Angular_Dockerfile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Angular_Dockerfile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Old_frontend_Dockerfile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Old_frontend_Dockerfile.xml" afterDir="false" />
+    <list default="true" id="857289c6-e86f-462a-83bb-97d47b097d38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +72,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\study\auto-catalog\backend" />
+      <recent name="D:\www\study\auto-catalog\backend\jar" />
       <recent name="D:\www\study\auto-catalog\front-vanilla" />
       <recent name="D:\www\study\auto-catalog" />
     </key>
@@ -138,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.Nginx test" />
         <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.Nginx test" />
         <item itemvalue="Docker.docker-compose.yaml.auto-catalog-frontend: Compose Deployment" />
         <item itemvalue="Application.Reto2Application" />
         <item itemvalue="Docker.Nginx test" />
@@ -214,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667774028471</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Modified backend Dockerfile">
+      <created>1667775051068</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667775051068</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +249,7 @@
     <MESSAGE value="Angular Dockerfile" />
     <MESSAGE value="Frontend Dockerfiles" />
     <MESSAGE value="Added .gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added .gitignore file" />
+    <MESSAGE value="Modified backend Dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified backend Dockerfile" />
   </component>
 </project>

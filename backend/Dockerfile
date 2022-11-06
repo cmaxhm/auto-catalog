@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:11-jdk-bullseye
 
-VOLUME ["/home"]
-ENTRYPOINT ["java", "-jar", "/home/catalog.jar"]
+COPY ./backend/catalogo.jar /home
+ENTRYPOINT ["java", "-jar", "/home/catalogo.jar"]

@@ -1,6 +1,7 @@
 package com.proyecto.reto2.repository.mongoRepository;
 
 import com.proyecto.reto2.model.Auto;
+import org.springframework.context.annotation.Profile;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 

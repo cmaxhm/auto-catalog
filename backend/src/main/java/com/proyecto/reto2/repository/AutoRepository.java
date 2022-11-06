@@ -3,6 +3,7 @@ package com.proyecto.reto2.repository;
 import com.proyecto.reto2.model.Auto;
 import com.proyecto.reto2.repository.mongoRepository.CookwareInterfaceRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

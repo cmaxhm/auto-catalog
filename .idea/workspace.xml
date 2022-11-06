@@ -1,39 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="857289c6-e86f-462a-83bb-97d47b097d38" name="Changes" comment="- Added README.md file&#10;- Added .gitignore file">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend-vanilla/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+    <list default="true" id="857289c6-e86f-462a-83bb-97d47b097d38" name="Changes" comment="Added .gitignore file">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/catalogo.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/catalogo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/car-128.png" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/car-128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/duster1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/duster1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/e-carscol.png" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/e-carscol.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/escarabajo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/escarabajo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/facebook-48.png" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/facebook-48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/git-48.png" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/git-48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/inicio-car.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/inicio-car.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/mazda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/mazda.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/img/mazda2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/img/mazda2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/js/catalogo.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/js/catalogo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/js/ordenCompra.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/js/ordenCompra.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/js/productos.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/js/productos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/js/registroUsuario.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/js/registroUsuario.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/ordenDeCompra.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/ordenDeCompra.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/productos.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/productos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/recuperar.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/recuperar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-vanilla/registro.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/registro.html" afterDir="false" />
-    </list>
-    <list id="4b6c7c96-8d3a-4749-a2c7-5602f006d554" name="Frontend Dockerfile" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auto-catalog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/auto-catalog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-vanilla/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-vanilla/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,32 +28,16 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="frontend" />
+        <entry key="$PROJECT_DIR$" value="backend" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="3" end1="33" start2="3" end2="34" changelist="857289c6-e86f-462a-83bb-97d47b097d38" />
-        <range start1="41" end1="41" start2="42" end2="49" changelist="4b6c7c96-8d3a-4749-a2c7-5602f006d554" />
-        <range start1="45" end1="46" start2="53" end2="54" changelist="4b6c7c96-8d3a-4749-a2c7-5602f006d554" />
-        <range start1="54" end1="54" start2="62" end2="65" changelist="4b6c7c96-8d3a-4749-a2c7-5602f006d554" />
-        <range start1="63" end1="63" start2="74" end2="75" changelist="4b6c7c96-8d3a-4749-a2c7-5602f006d554" />
-        <range start1="64" end1="65" start2="76" end2="78" changelist="4b6c7c96-8d3a-4749-a2c7-5602f006d554" />
-        <range start1="67" end1="68" start2="80" end2="81" changelist="4b6c7c96-8d3a-4749-a2c7-5602f006d554" />
-        <range start1="74" end1="74" start2="87" end2="88" changelist="857289c6-e86f-462a-83bb-97d47b097d38" />
-        <range start1="76" end1="76" start2="90" end2="137" changelist="4b6c7c96-8d3a-4749-a2c7-5602f006d554" />
-        <range start1="81" end1="81" start2="142" end2="143" changelist="4b6c7c96-8d3a-4749-a2c7-5602f006d554" />
-        <range start1="89" end1="89" start2="151" end2="153" changelist="857289c6-e86f-462a-83bb-97d47b097d38" />
-        <range start1="97" end1="98" start2="161" end2="183" changelist="857289c6-e86f-462a-83bb-97d47b097d38" />
-        <range start1="119" end1="120" start2="204" end2="208" changelist="857289c6-e86f-462a-83bb-97d47b097d38" />
-      </ranges>
-    </file>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2H13tuDYPHj18FAGkhPjCEou5RD" />
   <component name="ProjectLevelVcsManager">
@@ -91,17 +50,26 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/www/study/auto-catalog/frontend&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/www/study/auto-catalog/backend&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b43fdd98b1fd705ae4c3a10cf25aad8a&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -111,6 +79,26 @@
     </key>
   </component>
   <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+    <configuration name="Reto2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.proyecto.reto2.Reto2Application" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.proyecto.reto2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reto2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.proyecto.reto2.Reto2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Nginx test" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
       <deployment type="docker-image">
         <settings>
@@ -151,8 +139,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.Nginx test" />
         <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
         <item itemvalue="Docker.docker-compose.yaml.auto-catalog-frontend: Compose Deployment" />
+        <item itemvalue="Application.Reto2Application" />
         <item itemvalue="Docker.Nginx test" />
       </list>
     </recent_temporary>
@@ -161,7 +151,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="857289c6-e86f-462a-83bb-97d47b097d38" name="Changes" comment="" />
-      <changelist id="4b6c7c96-8d3a-4749-a2c7-5602f006d554" name="Frontend Dockerfile" comment="" />
       <created>1667438999277</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -172,6 +161,10 @@
       <workItem from="1667664035219" duration="981000" />
       <workItem from="1667681980661" duration="171000" />
       <workItem from="1667682654253" duration="1789000" />
+      <workItem from="1667690135450" duration="4131000" />
+      <workItem from="1667695038189" duration="1073000" />
+      <workItem from="1667773503220" duration="469000" />
+      <workItem from="1667773977176" duration="179000" />
     </task>
     <task id="LOCAL-00001" summary="Hello world">
       <created>1667439303136</created>
@@ -201,7 +194,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667684328269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Frontend Dockerfiles">
+      <created>1667773857601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667773857601</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added .gitignore file">
+      <created>1667773905675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667773905675</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added .gitignore file">
+      <created>1667774028471</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667774028471</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +240,8 @@
     <MESSAGE value="Merge branch 'backend'&#10;&#10;# Conflicts:&#10;#&#9;front-vanilla/catalogo.html&#10;#&#9;front-vanilla/css/main.css&#10;#&#9;front-vanilla/img/car-128.png&#10;#&#9;front-vanilla/img/duster1.jpg&#10;#&#9;front-vanilla/img/e-carscol.png&#10;#&#9;front-vanilla/img/escarabajo1.jpg&#10;#&#9;front-vanilla/img/facebook-48.png&#10;#&#9;front-vanilla/img/git-48.png&#10;#&#9;front-vanilla/img/inicio-car.jpg&#10;#&#9;front-vanilla/img/mazda.jpg&#10;#&#9;front-vanilla/img/mazda2.jpg&#10;#&#9;front-vanilla/index.html&#10;#&#9;front-vanilla/js/catalogo.js&#10;#&#9;front-vanilla/js/ordenCompra.js&#10;#&#9;front-vanilla/js/productos.js&#10;#&#9;front-vanilla/js/registroUsuario.js&#10;#&#9;front-vanilla/ordenDeCompra.html&#10;#&#9;front-vanilla/productos.html&#10;#&#9;front-vanilla/recuperar.html&#10;#&#9;front-vanilla/registro.html" />
     <MESSAGE value="Old frontend Dockerfile" />
     <MESSAGE value="Angular Dockerfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Angular Dockerfile" />
+    <MESSAGE value="Frontend Dockerfiles" />
+    <MESSAGE value="Added .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added .gitignore file" />
   </component>
 </project>

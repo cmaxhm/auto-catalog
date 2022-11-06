@@ -19,5 +19,3 @@ RUN npx ng build
 # Copy project files to server folder and remove temporary project folder
 RUN cp -R ./dist/auto-catalog-frontend/* /usr/local/apache2/htdocs
 RUN rm -r /frontend-temp
-
-EXPOSE 80:80

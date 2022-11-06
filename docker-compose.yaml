@@ -1,6 +1,14 @@
 version: "4.12"
 
 services:
+  auto-catalog-backend:
+    build:
+      context: .
+      dockerfile: ./backend/Dockerfile
+    restart: "always"
+    ports:
+      - "8085:8085"
+
   auto-catalog-frontend:
     build:
       context: .

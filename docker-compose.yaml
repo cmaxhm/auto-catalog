@@ -12,7 +12,7 @@ services:
   auto-catalog-frontend:
     build:
       context: .
-      dockerfile: ./frontend-vanilla/Dockerfile
+      dockerfile: ./frontend/Dockerfile
     restart: "always"
     ports:
       - "8080:80"

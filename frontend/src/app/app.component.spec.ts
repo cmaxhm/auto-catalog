@@ -1,16 +1,33 @@
+import { HttpClientTestingModule } from "@angular/common/http/testing";
 import { TestBed } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
+import { Observable, of } from "rxjs";
 import { AppComponent } from './app.component';
+import { Auto } from "./interfaces/auto";
+import { AutoService } from "./services/auto.service";
+
+const MockedAutoService: {
+  getAutos: () => Observable<Auto[]>
+} = {
+  getAutos: () => of([])
+}
 
 describe('AppComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       imports: [
-        RouterTestingModule
+        RouterTestingModule,
+        HttpClientTestingModule
       ],
       declarations: [
         AppComponent
       ],
+      providers: [
+        {
+          provide: AutoService,
+          useValue: MockedAutoService
+        }
+      ]
     }).compileComponents();
   });
 
@@ -18,18 +35,6 @@ describe('AppComponent', () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
     expect(app).toBeTruthy();
-  });
-
-  it(`should have as title 'auto-catalog-frontend'`, () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
-    expect(app.title).toEqual('auto-catalog-frontend');
-  });
-
-  it('should render title', () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    fixture.detectChanges();
-    const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('.content span')?.textContent).toContain('auto-catalog-frontend app is running!');
+    app.ngOnInit();
   });
 });

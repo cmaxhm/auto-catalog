@@ -8,10 +8,17 @@ import { Auto } from "../interfaces/auto";
   providedIn: 'root'
 })
 export class AutoService {
+  /**
+   * The API url configured in the environment file.
+   * @private
+   */
   private apiURL = environment.apiURL;
 
   constructor(private httpClient: HttpClient) {}
 
+  /**
+   * Gets the Autos list from the backend.
+   */
   public getAutos(): Observable<Auto[]> {
     return this.httpClient.get<Auto[]>(`${this.apiURL}/all`);
   }

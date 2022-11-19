@@ -15,4 +15,4 @@ services:
       dockerfile: ./frontend/Dockerfile
     restart: "always"
     ports:
-      - "8888:80"
+      - "8086:80"
